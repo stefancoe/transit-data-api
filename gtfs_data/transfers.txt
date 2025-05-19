@@ -1,0 +1,6 @@
+from_route_id,to_route_id,from_stop_id,to_stop_id,transfer_type,min_transfer_time
+,,lynntc,lynntc,2,180
+109,209,lkspr,lkspr,2,180
+209,109,lkspr,lkspr,2,180
+905,907,stapr,stapr,0,
+907,905,stapr,stapr,0,
